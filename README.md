@@ -1,3 +1,5 @@
+# Manejo y Visualización de Datos con Python 
+# Proyector Final Primer Bimestre Grupo 7
 ## Autores
 * Lisber Tandazo
 * Christian Perez
@@ -5,7 +7,7 @@
 <p> Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible.</p>
 <p>Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.</p>
 
-## Librerias Utilizadas 
+## Librerías Utilizadas 
 ### Instalación
 
 A continuación se encuentran los comandos para realizar la instalación de las librerías utilizadas.
